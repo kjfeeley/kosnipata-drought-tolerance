@@ -1,5 +1,5 @@
 # kosnipata-drought-tolerance
-Data from Variation in the Drought Tolerance of Tropical Understory Plant Communities across an Extreme Elevation and Precipitation Gradient by Catherine H. Bravo-Avila and Kenneth J. Feeley
+Data from "Variation in the Drought Tolerance of Tropical Understory Plant Communities across an Extreme Elevation and Precipitation Gradient" by Catherine H. Bravo-Avila and Kenneth J. Feeley
 https://doi.org/10.3390/plants12162957
 https://www.mdpi.com/2223-7747/12/16/2957
 
